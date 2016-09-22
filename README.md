@@ -3,3 +3,6 @@ Automated image process GUI for Drosophila ommatidia identification and mRNA qua
 
 
  ![image](https://github.com/George-wu509/eyesmFISH_GUI/blob/master/functions/figure1.png)
+ 
+ 
+  ![image](https://github.com/George-wu509/eyesmFISH_GUI/blob/master/functions/figure2.png)
